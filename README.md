@@ -2,7 +2,7 @@
 
 ## 🏁Description
 
-<div style="text-align: justify">Clima is Weather Cross-Platform Mobile App built with Flutter. Users can have ambiant temperature and advices based on their location.</div>
+<div style="text-align: justify">Clima is a Weather Cross-Platform Mobile App built with Flutter. Users can have ambiant temperature and advices based on their location.</div>
 
 ![demo-gi](demo.gif)
 
